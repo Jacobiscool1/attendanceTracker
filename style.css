@@ -1,14 +1,14 @@
 * {
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
  }
 
  nav {
-    width: 420px;
+    width: 504px;
     text-align: center;
     border-bottom: 1px solid black;
-    height: 17px;
+    height: 20px;
 }
 
  nav ul { 
@@ -54,8 +54,8 @@ table {
 }
  
 #itemWrapper {
-    width: 400px;
-    height: 150px;
+    width: 480px;
+    height: 180px;
  }
 
 #itemList {
